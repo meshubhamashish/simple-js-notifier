@@ -1,19 +1,34 @@
 {
   "name": "simple-js-notifier",
-  "version": "1.0.1",
-  "description": "A lightweight, dependency-free notification library.",
+  "version": "1.0.2",
+  "description": "A lightweight, dependency-free notification library for displaying toast-style notifications",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "notify",
     "notification",
     "toast",
+    "notifier",
     "alert",
-    "javascript"
+    "javascript",
+    "message",
+    "ui",
+    "lightweight",
+    "dependency-free",
+    "vanilla-js"
   ],
-  "author": "Your Name Here",
-  "license": "MIT"
+  "author": "Shubham Ashish",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meshubhamashish/simple-js-notifier.git"
+  },
+  "homepage": "https://github.com/meshubhamashish/simple-js-notifier#readme",
+  "bugs": {
+    "url": "https://github.com/meshubhamashish/simple-js-notifier/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
 }
