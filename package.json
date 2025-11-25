@@ -1,0 +1,19 @@
+{
+  "name": "simple-js-notifier",
+  "version": "1.0.1",
+  "description": "A lightweight, dependency-free notification library.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notify",
+    "notification",
+    "toast",
+    "alert",
+    "javascript"
+  ],
+  "author": "Your Name Here",
+  "license": "MIT"
+}
