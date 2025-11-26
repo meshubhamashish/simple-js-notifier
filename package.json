@@ -1,6 +1,6 @@
 {
   "name": "simple-js-notifier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight, dependency-free notification library for displaying toast-style notifications",
   "main": "index.js",
   "type": "module",
